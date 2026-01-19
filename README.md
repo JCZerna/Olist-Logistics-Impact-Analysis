@@ -53,5 +53,20 @@ While this project established a strong baseline for logistics-driven sentiment,
 * **Gradient Boosting (XGBoost/LightGBM):** Future iterations could utilize boosting models to better capture the "hard-to-predict" 2-4 star reviews.
 * **Class Imbalance:** Experimenting with **SMOTE** (Synthetic Minority Over-sampling Technique) to improve the model's sensitivity to non-5-star reviews.
 
+## 🚀 Future Work & Potential Improvements
+While this project established a strong baseline for logistics-driven sentiment, several avenues exist to improve predictive power:
+
+### 1. Advanced Modeling & Balancing
+* **Gradient Boosting (XGBoost/LightGBM):** Future iterations could utilize boosting models to better capture the "hard-to-predict" 2-4 star reviews.
+* **Class Imbalance:** Experimenting with **SMOTE** (Synthetic Minority Over-sampling Technique) to improve the model's sensitivity to non-5-star reviews.
+
 ### 2. Natural Language Processing (NLP)
-*
+* **Sentiment Analysis:** Incorporating the actual text of customer reviews (using BERT or VADER) would likely bridge the accuracy gap by capturing qualitative complaints regarding product quality or seller communication.
+
+### 3. Feature Engineering
+* **Seller Reputation:** Integrating seller-specific metrics (e.g., historical average rating) could explain why similar deliveries result in different scores.
+
+## 📂 Data Source
+The dataset used in this analysis is the **Brazilian E-Commerce Public Dataset by Olist**, available on Kaggle. 
+* **Download Link:** [Kaggle - Olist Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+* **Instructions:** To run the analysis script, download the files from the link above and place them in the project root directory.
