@@ -1,4 +1,3 @@
-Here is the updated and finalized README.md for your repository, Olist-Logistics-Impact-Analysis. I have integrated your new summary statement into the Model Performance section to provide a professional perspective on the results.
 Olist Customer Satisfaction: A Predictive Modeling Approach
 🎯 Executive Summary
 
