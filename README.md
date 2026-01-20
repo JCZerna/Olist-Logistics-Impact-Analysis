@@ -53,13 +53,6 @@ While this project established a strong baseline for logistics-driven sentiment,
 * **Gradient Boosting (XGBoost/LightGBM):** Future iterations could utilize boosting models to better capture the "hard-to-predict" 2-4 star reviews.
 * **Class Imbalance:** Experimenting with **SMOTE** (Synthetic Minority Over-sampling Technique) to improve the model's sensitivity to non-5-star reviews.
 
-## 🚀 Future Work & Potential Improvements
-While this project established a strong baseline for logistics-driven sentiment, several avenues exist to improve predictive power:
-
-### 1. Advanced Modeling & Balancing
-* **Gradient Boosting (XGBoost/LightGBM):** Future iterations could utilize boosting models to better capture the "hard-to-predict" 2-4 star reviews.
-* **Class Imbalance:** Experimenting with **SMOTE** (Synthetic Minority Over-sampling Technique) to improve the model's sensitivity to non-5-star reviews.
-
 ### 2. Natural Language Processing (NLP)
 * **Sentiment Analysis:** Incorporating the actual text of customer reviews (using BERT or VADER) would likely bridge the accuracy gap by capturing qualitative complaints regarding product quality or seller communication.
 
